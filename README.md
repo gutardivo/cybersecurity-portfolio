@@ -8,7 +8,7 @@ I'm a dedicated and enthusiastic developer who has spent the past few months div
 
 # What's in This Portfolio?
 
-In this GitHub repository, you'll find a collection of projects, write-ups, and resources that reflect my dedication to cybersecurity. Each project or contribution demonstrates a different facet of my skills and understanding of the field. Here's a sneak peek into what you can explore:
+In this GitHub repository, you'll find a collection of projects, and resources that reflect my dedication to cybersecurity. Each project or contribution demonstrates a different facet of my skills and understanding of the field. Here's a sneak peek into what you can explore:
 
 # Projects
 - Bug reports

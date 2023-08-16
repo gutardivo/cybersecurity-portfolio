@@ -4,7 +4,7 @@ Hey there! Welcome to my cybersecurity portfolio on GitHub. I'm Gustavo, a 23-ye
 
 # About Me
 
-I'm a dedicated and enthusiastic developer who has spent the past few years diving deep into the world of cybersecurity. My journey started with a fascination for ethical hacking, penetration testing, and securing digital assets. Since then, I've been on a mission to learn, explore, and contribute to the cybersecurity community.
+I'm a dedicated and enthusiastic developer who has spent the past few months diving deep into the world of cybersecurity. My journey started with a fascination for ethical hacking, penetration testing, and securing digital assets. Since then, I've been on a mission to learn, explore, and contribute to the cybersecurity community.
 
 # What's in This Portfolio?
 
